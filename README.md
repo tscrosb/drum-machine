@@ -2,7 +2,7 @@
 
 This is a Drum Machine, built as part of the freeCodeCamp Front End Development Libraries Certification
 
-Working Demo: (https://tscrosb.github.io/markdown-previewer/)
+Working Demo: (https://tscrosb.github.io/drum-machine/)
 
 ### Link
 
